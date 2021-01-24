@@ -1,10 +1,10 @@
 # voice-assistant
 a simple voice assistant made using python.
 python library to install:
-pytube
-pyttsx3
-speech_recognition
-pyclip
+1.  pytube
+2.  pyttsx3
+3.  speech_recognition
+4.  pyclip
 
 current voice assisted features:
 1.  google search
